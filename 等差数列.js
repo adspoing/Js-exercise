@@ -24,5 +24,6 @@ function foo(array){
 			max=obj[x];
 		}
 	}
-	return max;
+	return max
+	;
 }
